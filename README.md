@@ -14,17 +14,22 @@ A modern and sleek banking interface that mimics real-world online banking syste
 
 > 🛠️ Built with: **HTML5**, **CSS3**, **JavaScript (ES6+)**
 
+📂 Project Structure 
 
-## 📂 Project Structure
+    Real-World-JavaScript-Projects/
 
-Real-World-JavaScript-Projects/
-├── Advanced-DOM-Bankist/
-│   └── final/
-│       ├── index.html
-│       ├── style.css
-│       ├── script.js
-│       └── img/ (UI assets)    
+        Advanced-DOM-Bankist/
 
+            final/
+
+                index.html → Main webpage layout
+
+                style.css → Styling for the UI
+
+                script.js → JavaScript logic and interactivity
+
+                img/ → All image assets used in the app ( icons, logos, user photos)
+                
 ## 🎯 Skills Demonstrated
 
 => DOM Traversal & Manipulation  
